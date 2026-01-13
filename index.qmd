@@ -2,7 +2,7 @@
 ::::: {.column width="30%"}
 ```{=html}
 <img src="images/UNL_Headshot.JPG" 
-     style="width:150px; height:200px; border-radius:50% / 50%; object-fit:cover;" 
+     style="width:100%; max-width:150px; aspect-ratio:3/4; border-radius:50%; object-fit:cover;" 
      alt="Ryan Clark">
 ```
 
