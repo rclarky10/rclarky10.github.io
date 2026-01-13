@@ -1,1 +1,25 @@
 /* css styles */
+
+/* Banner background */
+.navbar, header.site-header {
+  background-color: #F5E6D0 !important; /* Husker Cream */
+}
+
+/* Banner text / links */
+.navbar a, .site-header a, .navbar span, .site-header span {
+  color: #D00000 !important; /* Husker Scarlet */
+}
+
+.navbar a:hover, .site-header a:hover {
+  color: #D00000 !important; /* lighter shade on hover */
+}
+
+/* Links under profile picture */
+.profile-links a {
+  color: #D00000;        /* Husker Scarlet, change if you want */
+  text-decoration: none;  /* no underline by default */
+}
+
+.profile-links a:hover {
+  text-decoration: underline; /* show underline on hover */
+}

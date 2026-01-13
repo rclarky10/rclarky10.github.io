@@ -3,7 +3,7 @@ project:
   output-dir: .
 
 website:
-  title: "ryan-clark-website"
+  title: "Ryan Clark"
   navbar:
     left:
       - href: index.qmd
