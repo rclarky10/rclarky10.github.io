@@ -4,6 +4,17 @@ format: html
 
 ## Working Papers
 
-#### Evening News: Informativeness from the time of day insider trades are disclosed
-
+### Evening News: Informativeness from the time of day insider trades are disclosed
 Using Form 4 timestamps scraped from EDGAR, we examine whether the intraday timing of insider trading disclosure signals trade informativeness. Supporting a strategic disclosure interpretation, we document that sales are more often disclosed in the evening, particularly among higher level insiders. Evening disclosed trades better predict earnings surprises and stock returns. Evening disclosure is particularly effective at identifying informed selling, with the signal’s value decaying over time. Leveraging insider trading coverage by Dow Jones and the signatory of the filing, we propose both improvements in information dissemination and corporate governance as channels which mitigate the value of strategic disclosure.
+
+-   Presented at the Financial Management Association Annual Meeting (2025); Southwestern Finance Association Annual Meeting (2025); University of Kansas (2024)
+
+### [Inferring corporate insiders’ beliefs about firm value from tax withholding elections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4829387){target="_blank"}
+(with Tom Kubick and Jide Wintoki)
+
+
+Exploiting tax withholding elections around equity compensation transactions, we find that tax withholding predicts annualized next month returns that are 4% – 8% lower than not withholding. Withholding is more informative in the presence of greater information asymmetry surrounding the firm and following personal tax rate changes within the insider’s state of residence. Examining the extent to which withholding reflects opportunism, we find that, during blackout trading periods, withholdings are more likely to occur and more predictive of earnings announcement surprises than sales. Opportunistic insiders change their election choice more frequently, and the informativeness of withholding is lower in the year of an SEC enforcement action even though withholding is never the focus of such investigations.
+
+* Revise & Resubmit at *The Journal of Accounting Research*
+* Presented at Presented at the University of North Carolina Tax Symposium (2025); Midwest Finance Association Annual Meeting (2025); Eastern Finance Association Annual Meeting (2025); Southwestern Finance Association Annual Meeting (2025); Southern Finance Association Annual Meeting (2024); Silicon Prairie Finance Conference (2024)
+* University of Kansas, School of Business Best Paper Award (2024)
