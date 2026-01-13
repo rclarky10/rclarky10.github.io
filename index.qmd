@@ -1,11 +1,15 @@
 ---
-title: "ryan-clark-website"
+title: "Ryan Clark"
 ---
 
-This is a Quarto website.
+::::: columns
+::: {.column width="30%" style="padding-right:20px;"}
+![Ryan Clark](images/UNL_Headshot.jpg){width="100%" style="border-radius:50%;"}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column width="70%"}
+# Hi, I’m Ryan Clark 👋
 
-```{r}
-1 + 1
-```
+Welcome to my personal website. I’m an assistant professor of finance at the University of Nebraska-Lincoln. Here I share my research, teaching, and other projects.
+:::
+:::::
