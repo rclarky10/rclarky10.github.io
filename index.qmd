@@ -13,19 +13,15 @@ Assistant Professor of Finance<br> University of Nebraska-Lincoln<br> rclark23\@
 :::
 
 ::: {.profile-links style="margin-top:10px; font-size:0.9em;"}
-<a href="mailto:rclark23@unl.edu"> <i class="bi bi-envelope" style="margin-right:4px;"></i> Email </a><br> 
-<a href="https://business.unl.edu/person/ryan-clark/" target="_blank"> <i class="bi bi-link" style="margin-right:4px;"></i> Faculty Website </a><br> 
-<a href="https://www.linkedin.com/in/ryan-clark-340056152/" target="_blank"> <i class="bi bi-linkedin" style="margin-right:4px;"></i> LinkedIn </a><br> 
-<a href="https://scholar.google.com/citations?user=V0Y8KYQAAAAJ&hl=en" target="_blank"> <i class="bi bi-mortarboard" style="margin-right:4px;"></i> Google Scholar </a>
+<a href="mailto:rclark23@unl.edu"> <i class="bi bi-envelope" style="margin-right:4px;"></i> Email </a><br> <a href="https://business.unl.edu/person/ryan-clark/" target="_blank"> <i class="bi bi-link" style="margin-right:4px;"></i> Faculty Website </a><br> <a href="https://www.linkedin.com/in/ryan-clark-340056152/" target="_blank"> <i class="bi bi-linkedin" style="margin-right:4px;"></i> LinkedIn </a><br> <a href="https://scholar.google.com/citations?user=V0Y8KYQAAAAJ&hl=en" target="_blank"> <i class="bi bi-mortarboard" style="margin-right:4px;"></i> Google Scholar </a>
 :::
 :::::
 
 ::: {.column width="70%"}
 ### About Me
 
-I am an assistant professor of finance at the [University of Nebraska-Lincoln](https://business.unl.edu). My research interests include corporate finance, corporate governance, insider trading, and household finance. My goal is to support the fair and efficient functioning of financial markets and to promote responsible financial decision making for individuals.
+I am an assistant professor of finance at the [University of Nebraska-Lincoln](https://business.unl.edu){target="_blank"}. My research interests include corporate finance, corporate governance, insider trading, and household finance. My goal is to support the fair and efficient functioning of financial markets and to promote responsible financial decision making for individuals.
 
-Prior to my appointment at the University of Nebraska-Lincoln, I obtained my Ph.D. in Finance from the [University of Kansas](https://business.ku.edu) and my B.S. in Finance and Mathematics from the [University of Nebraska at Kearney](https://www.unk.edu).
-
+Prior to my appointment at the University of Nebraska-Lincoln, I obtained my Ph.D. in Finance from the [University of Kansas](https://business.ku.edu){target="_blank"} and my B.S. in Finance and Mathematics from the [University of Nebraska at Kearney](https://www.unk.edu){target="_blank"}.
 :::
 :::::::
