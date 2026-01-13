@@ -1,7 +1,7 @@
 ::::::: columns
 ::::: {.column width="30%"}
 ```{=html}
-<img src="images/UNL_Headshot.jpg" 
+<img src="images/UNL_Headshot.JPG" 
      style="width:150px; height:200px; border-radius:50% / 50%; object-fit:cover;" 
      alt="Ryan Clark">
 ```
