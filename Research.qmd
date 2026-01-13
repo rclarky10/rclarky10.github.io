@@ -1,0 +1,9 @@
+---
+format: html
+---
+
+## Working Papers
+
+#### Evening News: Informativeness from the time of day insider trades are disclosed
+
+Using Form 4 timestamps scraped from EDGAR, we examine whether the intraday timing of insider trading disclosure signals trade informativeness. Supporting a strategic disclosure interpretation, we document that sales are more often disclosed in the evening, particularly among higher level insiders. Evening disclosed trades better predict earnings surprises and stock returns. Evening disclosure is particularly effective at identifying informed selling, with the signal’s value decaying over time. Leveraging insider trading coverage by Dow Jones and the signatory of the filing, we propose both improvements in information dissemination and corporate governance as channels which mitigate the value of strategic disclosure.
