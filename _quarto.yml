@@ -18,6 +18,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    linkcolor: "#D00000"       # Sets all links to Scarlet
 
 editor: visual
 

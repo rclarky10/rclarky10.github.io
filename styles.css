@@ -23,3 +23,10 @@
 .profile-links a:hover {
   text-decoration: underline; /* show underline on hover */
 }
+
+/* This targets the profile image specifically */
+.about-entity img {
+  aspect-ratio: 3 / 4;    /* Forces a vertical rectangle shape */
+  object-fit: cover;      /* Prevents stretching */
+  border-radius: 50%;     /* Rounds the corners into an oval */
+}
