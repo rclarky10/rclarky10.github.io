@@ -2,14 +2,16 @@
 title: "Ryan Clark"
 ---
 
-::::: columns
-::: {.column width="30%" style="padding-right:20px;"}
-![Ryan Clark](images/UNL_Headshot.jpg){width="100%" style="border-radius:50%;"}
+::: {.columns}
+
+::: {.column width="30%" style="padding-right:30px;"}
+![Ryan Clark](images/UNL_Headshot.jpg){ width=100% style="border-radius:50%;" }
 :::
 
 ::: {.column width="70%"}
 # Hi, I’m Ryan Clark 👋
 
-Welcome to my personal website. I’m an assistant professor of finance at the University of Nebraska-Lincoln. Here I share my research, teaching, and other projects.
+Welcome to my personal website. I’m an assistant professor of finance at the University of Nebraska-Lincoln. I share my research, teaching, and other projects.
 :::
-:::::
+
+:::
