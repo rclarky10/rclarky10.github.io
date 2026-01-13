@@ -17,7 +17,7 @@ Assistant Professor of Finance<br> University of Nebraska-Lincoln<br> rclark23\@
 :::
 :::::
 
-::: {.column width="70%"}
+::: {.column width="70%"  breakpoint="mobile"}
 ### About Me
 
 I am an assistant professor of finance at the [University of Nebraska-Lincoln](https://business.unl.edu){target="_blank"}. My research interests include corporate finance, corporate governance, insider trading, and household finance. My goal is to support the fair and efficient functioning of financial markets and to promote responsible financial decision making for individuals.
