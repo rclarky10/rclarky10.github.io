@@ -9,17 +9,23 @@ about:
     - icon: envelope
       text: Email
       href: mailto:rclark23@unl.edu
-    - icon: link
+      
+    - icon: file-earmark-pdf
+      text: CV
+      href: https://www.dropbox.com/scl/fi/4nv5qd9trua4hnhsrushp/Ryan-Clark-CV.pdf?rlkey=h6enwit032ob8m3bj8e19koo0&st=wite3fn3&dl=1
+      
+    - icon: link-45deg
       text: Faculty Website
       href: https://business.unl.edu/person/ryan-clark/
+      
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ryan-clark-340056152/
+      
     - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com/citations?user=V0Y8KYQAAAAJ&hl=en
 ---
-
 
 ### About Me
 
