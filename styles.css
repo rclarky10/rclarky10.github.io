@@ -30,3 +30,25 @@
   object-fit: cover;      /* Prevents stretching */
   border-radius: 50%;     /* Rounds the corners into an oval */
 }
+
+
+.navbar-nav .nav-link.active {
+  background-color: transparent;
+  color: #555 !important;
+  border-bottom: 3px solid #bdbdbd;
+}
+
+.navbar-nav .nav-link:hover {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+
+
+/* ONLY color the heading text */
+h1.unl, h2.unl, h3.unl, h4.unl, h5.unl, h6.unl {
+  color: #D00000;  /* UNL Scarlet */
+}
+
+h1.ku, h2.ku, h3.ku, h4.ku, h5.ku, h6.ku {
+  color: #0051BA;  /* KU Blue */
+}

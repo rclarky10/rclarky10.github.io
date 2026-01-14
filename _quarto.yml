@@ -10,6 +10,8 @@ website:
         text: Home
       - href: Research.html
         text: Research
+      - href: Teaching.html
+        text: Teaching
         
 format:
   html:
