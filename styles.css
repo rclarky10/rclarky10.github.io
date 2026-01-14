@@ -52,3 +52,29 @@ h1.unl, h2.unl, h3.unl, h4.unl, h5.unl, h6.unl {
 h1.ku, h2.ku, h3.ku, h4.ku, h5.ku, h6.ku {
   color: #0051BA;  /* KU Blue */
 }
+
+
+.btn-unl {
+  background-color: #D00000; /* UNL Scarlet */
+  color: white;
+  border-radius: 12px;       /* rounded edges */
+  border: none;
+
+  /* bevel / raised effect */
+  box-shadow:
+    0 4px 0 #9e0000,        /* bottom bevel */
+    0 6px 12px rgba(0,0,0,0.25);
+
+  transition: all 0.15s ease-in-out;
+}
+
+.btn-unl:hover {
+  background-color: #b80000;
+}
+
+.btn-unl:active {
+  transform: translateY(3px);
+  box-shadow:
+    0 1px 0 #9e0000,
+    0 3px 6px rgba(0,0,0,0.25);
+}
