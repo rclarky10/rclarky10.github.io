@@ -27,3 +27,20 @@ Exploiting tax withholding elections around equity compensation transactions, we
 We experimentally examine whether artificial intelligence-generated information about aggregate risk influences households’ economic expectations and behavior. Randomly assigning recession forecasts from artificial intelligence (AI) models and professionals, we exogenously shift individuals’ beliefs. Participants update their recession expectations in response to AI forecasts, placing similar weight on them as on professional forecasts. Households extrapolate their AI-influenced recession beliefs to other dimensions of their macroeconomic and microeconomic outlooks. These belief updates also affect their consumption allocation decisions. Our findings indicate that households perceive AI-generated macroeconomic information signals as credible and behaviorally relevant.
 
 -   Presented at the Southwestern Finance Association Annual Meeting (2026)
+
+### [Trade as I say, Not as I do: Management Rhetoric and Insider Stock Sales](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5156207){target="_blank"}
+
+(with Justin Balthrop and Jonathan Bitting)
+
+In recent years, company filings have featured a notable rise in anti-short selling rhetoric. This paper investigates whether changes in such language help explain fluctuations in abnormal insider equity sales. Despite disclosures suggesting an artificially suppressed stock price, we estimate a 70% increase in the probability of an insider sale following the use of certain buzzwords in public company filings, a result that contrasts with established theory. These insider sales often precede significant stock price declines and correlate with future accounting restatements, suggesting potential private information and timing effects. Additionally, we provide evidence that this rhetoric influences retail investors, who engage in increased discussion and purchases of a firm's stock after it employs anti-short selling language.
+
+-   Presented at the Financial Management Association Annual Meeting (2025); Southern Finance Association Annual Meeting (2025); University of Kansas
+
+### Corporate insiders as value investors
+
+(with Felix Meschke and Jide Wintoki)
+
+Insider trading profits are often attributed to access to material, nonpublic information. We develop a novel classification framework to distinguish which insider trades are more likely to reflect proprietary insights rather than public valuation signals. Using the asset pricing method of Bartram and Grinblatt (2018), we benchmark insider trades against those a value investor would make based solely on financial statement data. We find that while many insider trades appear to contain insider-specific information, those that diverge from public fundamentals—what we label proprietary trades—appear to contain more. Our findings challenge the assumption that higher profitability implies greater use of private information and offer a new lens for evaluating insider activity.
+
+* Presented at the Financial Management Association Annual Meeting (2024); University of Kansas
+* University of Kansas John O. Tollefson Best Paper Award (2024)
