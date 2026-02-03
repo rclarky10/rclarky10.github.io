@@ -12,7 +12,7 @@ about:
       
     - icon: file-earmark-pdf
       text: CV
-      href: https://www.dropbox.com/scl/fi/4nv5qd9trua4hnhsrushp/Ryan-Clark-CV.pdf?rlkey=h6enwit032ob8m3bj8e19koo0&st=wite3fn3&dl=1
+      href: https://www.dropbox.com/scl/fi/jfliuof3bf2gpn3275hyh/Ryan-Clark-CV.pdf?rlkey=to8sllx5x6n70n27pz32bn116&st=tszc6iq3&dl=0
       
     - icon: link-45deg
       text: Faculty Website
